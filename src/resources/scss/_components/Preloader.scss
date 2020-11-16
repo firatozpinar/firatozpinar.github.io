@@ -1,0 +1,50 @@
+.preloader {
+    background      : var(--deep-color-light);
+    position        : fixed;
+    z-index         : 999999;
+    width           : 100%;
+    height          : 100%;
+    overflow        : hidden;
+    top             : 0;
+
+    align-items     : center;
+    justify-content : center;
+    scrollbar-width : none;
+    display: none;
+
+    &.active {
+        display         : flex;
+    }
+
+    .preloader-wrp {
+        margin-bottom : 15px;
+        text-align    : center;
+    }
+
+    .el-progress-bar {
+        margin-top   : 10px;
+        width        : 200px;
+        display      : block;
+        padding      : 0;
+        margin-right : 0;
+
+        .el-progress-bar__outer {
+            background-color : var(--deep-color);
+            border-radius    : 0;
+            height           : 3.5px !important;
+        }
+
+        .el-progress-bar__inner {
+            border-radius : 0;
+            background-color : var(--primary-color)
+        }
+    }
+
+    .el-progress__text {
+        font-size   : 14px;
+        font-weight : 400;
+        color       : var(--text-color-2);
+        margin-top  : 15px;
+        margin-left : 0;
+    }
+}
