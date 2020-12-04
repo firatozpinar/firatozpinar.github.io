@@ -5,7 +5,7 @@
     },
     "sidebar_profile_image_path": "/img/profile-1.jpg",
     "content_profile_image_path": "/img/profile-2.png",
-    "cv_path": "/img/profile-1.jpg",
+    "cv_path": "/cv.pdf",
     "work_status": {
         "tr": "Müsaitim"
     },
@@ -21,23 +21,23 @@
     "socials": [
         {
             "name": "twitter",
-            "url": ""
+            "url": "https://twitter.com/firatozpinar"
         },
         {
             "name": "linkedin",
-            "url": ""
+            "url": "https://www.linkedin.com/in/firat-ozpinar/"
         },
         {
             "name": "github",
-            "url": ""
+            "url": "https://github.com/firatozpinar"
         },
         {
             "name": "behance",
-            "url": ""
+            "url": "https://www.behance.net/firatozpinar1"
         },
         {
             "name": "dribbble",
-            "url": ""
+            "url": "https://dribbble.com/firatozpinar"
         }
     ],
     "skills": [
