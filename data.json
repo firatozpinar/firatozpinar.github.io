@@ -11,9 +11,9 @@
     },
     "contact": {
         "residence": "Türkiye",
-        "city": "İzmir",
+        "city": "Eskişehir",
         "age": "29",
-        "email": "firat@ozpinar.net",
+        "email": "firatozpinar@gmail.com",
         "telegram": "@firatozpinar",
         "skype": "firatozpinar",
         "phone": "+90 (506) 180 18 66"
@@ -375,7 +375,7 @@
     ],
     "work_history": [
         {
-            "date": "nisan 2018 - haziran 2019",
+            "date": "nisan 2018 -",
             "title": {
                 "tr": "Full-Stack Developer",
                 "en": "Php Developer"
